@@ -41,13 +41,6 @@ ENV/
 .DS_Store
 Thumbs.db
 
-# 輸出檔案
-outputs/
-*.png
-*.jpg
-*.jpeg
-*.html
-
 # 暫存檔案
 *.tmp
 *.temp
